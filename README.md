@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **react and nodejs**
 
-- 💬 Ask me about **react, php, nodejs**
+- 💬 Ask me about **web and software development**
 
 - 📫 How to reach me **vandungvo2003@gmail.com**
 
